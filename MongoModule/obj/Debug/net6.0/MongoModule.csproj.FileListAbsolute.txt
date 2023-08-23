@@ -1,0 +1,12 @@
+C:\Users\Aimon\source\repos\MongoBB\MongoModule\bin\Debug\net6.0\MongoModule.deps.json
+C:\Users\Aimon\source\repos\MongoBB\MongoModule\bin\Debug\net6.0\MongoModule.dll
+C:\Users\Aimon\source\repos\MongoBB\MongoModule\bin\Debug\net6.0\MongoModule.pdb
+C:\Users\Aimon\source\repos\MongoBB\MongoModule\obj\Debug\net6.0\MongoModule.csproj.AssemblyReference.cache
+C:\Users\Aimon\source\repos\MongoBB\MongoModule\obj\Debug\net6.0\MongoModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aimon\source\repos\MongoBB\MongoModule\obj\Debug\net6.0\MongoModule.AssemblyInfoInputs.cache
+C:\Users\Aimon\source\repos\MongoBB\MongoModule\obj\Debug\net6.0\MongoModule.AssemblyInfo.cs
+C:\Users\Aimon\source\repos\MongoBB\MongoModule\obj\Debug\net6.0\MongoModule.csproj.CoreCompileInputs.cache
+C:\Users\Aimon\source\repos\MongoBB\MongoModule\obj\Debug\net6.0\MongoModule.dll
+C:\Users\Aimon\source\repos\MongoBB\MongoModule\obj\Debug\net6.0\refint\MongoModule.dll
+C:\Users\Aimon\source\repos\MongoBB\MongoModule\obj\Debug\net6.0\MongoModule.pdb
+C:\Users\Aimon\source\repos\MongoBB\MongoModule\obj\Debug\net6.0\ref\MongoModule.dll
